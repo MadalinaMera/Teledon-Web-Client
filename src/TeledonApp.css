@@ -1,0 +1,25 @@
+.TeledonApp {
+    text-align: center;
+    align-content: center;
+    color: #FF66B2;
+}
+.TeledonApp-h1{
+    text-align: center;
+
+    font-family:'Courier New';
+    font-size: large;
+
+}
+.CharityCasesTable{
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: medium;
+    color: #FF66B2;
+}
+.TeledonApp-body{
+    align-content: center;
+}
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
